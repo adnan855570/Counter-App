@@ -23,3 +23,7 @@ To run this project
 
 
 ## Demo
+https://ibb.co/nfFYP1B
+
+## Deployment Link
+https://adnan855570.github.io/Counter-App/
